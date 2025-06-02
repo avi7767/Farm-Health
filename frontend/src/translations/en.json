@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Home",
+    "diseaseDetection": "Disease Detection",
+    "expertAdvice": "Expert Advice",
+    "farmerContribution": "Farmer Contribution",
+    "farmAssistant": "Farm Assistant",
+    "buyMedicine": "Buy Medicine",
+    "about": "About",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Plant Disease Detection",
+    "subtitle": "AI-Powered Plant Disease Detection and Expert Advice",
+    "getStarted": "Get Started",
+    "features": {
+      "title": "Features",
+      "diseaseDetection": "Disease Detection",
+      "expertAdvice": "Expert Advice",
+      "weatherInfo": "Weather Information"
+    }
+  },
+  "diseaseDetection": {
+    "title": "Plant Disease Detection",
+    "description": "Upload a plant image to detect diseases",
+    "uploadButton": "Select Image",
+    "uploadImage": "Upload Plant Image",
+    "dragDrop": "Drag and drop an image here, or click to select",
+    "selectedImage": "Selected Image",
+    "analyze": "Analyze",
+    "result": "Analysis Result",
+    "disease": "Disease",
+    "confidence": "Confidence",
+    "description": "Description",
+    "treatment": "Treatment",
+    "error": {
+      "noImage": "Please select an image first",
+      "uploadFailed": "Failed to upload image",
+      "analysisFailed": "Failed to analyze image"
+    }
+  },
+  "expertAdvice": {
+    "title": "Expert Farming Advice",
+    "form": {
+      "cropType": "Crop Type",
+      "soilType": "Soil Type",
+      "location": "Location",
+      "language": "Language",
+      "submit": "Get Advice"
+    },
+    "result": {
+      "title": "Expert Advice",
+      "weather": "Weather Information",
+      "advice": "Farming Advice"
+    },
+    "error": {
+      "submitFailed": "Failed to get advice",
+      "invalidInput": "Please fill in all required fields"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "success": "Success",
+    "cancel": "Cancel"
+  }
+} 

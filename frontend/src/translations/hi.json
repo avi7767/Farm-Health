@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "होम",
+    "diseaseDetection": "रोग पहचान",
+    "expertAdvice": "विशेषज्ञ सलाह",
+    "farmerContribution": "किसान योगदान",
+    "farmAssistant": "फार्म सहायक",
+    "buyMedicine": "दवा खरीदें",
+    "about": "हमारे बारे में",
+    "language": "भाषा"
+  },
+  "home": {
+    "title": "पौधे की बीमारी पहचान",
+    "subtitle": "एआई-संचालित पौधे की बीमारी पहचान और विशेषज्ञ सलाह",
+    "getStarted": "शुरू करें",
+    "features": {
+      "title": "विशेषताएं",
+      "diseaseDetection": "रोग पहचान",
+      "expertAdvice": "विशेषज्ञ सलाह",
+      "weatherInfo": "मौसम की जानकारी"
+    }
+  },
+  "diseaseDetection": {
+    "title": "पौधे की बीमारी पहचान",
+    "description": "रोग पहचान के लिए पौधे की छवि अपलोड करें",
+    "uploadButton": "छवि चुनें",
+    "uploadImage": "पौधे की छवि अपलोड करें",
+    "dragDrop": "यहां छवि खींचें और छोड़ें, या चुनने के लिए क्लिक करें",
+    "selectedImage": "चयनित छवि",
+    "analyze": "विश्लेषण करें",
+    "result": "विश्लेषण परिणाम",
+    "disease": "बीमारी",
+    "confidence": "विश्वास",
+    "description": "विवरण",
+    "treatment": "उपचार",
+    "error": {
+      "noImage": "कृपया पहले एक छवि चुनें",
+      "uploadFailed": "छवि अपलोड करने में विफल",
+      "analysisFailed": "छवि का विश्लेषण करने में विफल"
+    }
+  },
+  "expertAdvice": {
+    "title": "विशेषज्ञ कृषि सलाह",
+    "form": {
+      "cropType": "फसल का प्रकार",
+      "soilType": "मिट्टी का प्रकार",
+      "location": "स्थान",
+      "language": "भाषा",
+      "submit": "सलाह प्राप्त करें"
+    },
+    "result": {
+      "title": "विशेषज्ञ सलाह",
+      "weather": "मौसम की जानकारी",
+      "advice": "कृषि सलाह"
+    },
+    "error": {
+      "submitFailed": "सलाह प्राप्त करने में विफल",
+      "invalidInput": "कृपया सभी आवश्यक फ़ील्ड भरें"
+    }
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "एक त्रुटि हुई",
+    "retry": "पुनः प्रयास करें",
+    "success": "सफल",
+    "cancel": "रद्द करें"
+  }
+} 

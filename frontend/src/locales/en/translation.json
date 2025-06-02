@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "app_name": "Farm Health",
+    "home": "Home",
+    "disease_detection": "Disease Detection",
+    "expert_advice": "Expert Advice",
+    "buy_medicine": "Buy Medicine",
+    "farmer_contribution": "Farmer Contribution",
+    "about": "About Us",
+    "login": "Login/Sign Up",
+    "logout": "Logout"
+  },
+  "home": {
+    "welcome_title": "Smart Plant Disease Detection",
+    "welcome_description": "Protect your crops with AI-powered disease detection and expert agricultural advice",
+    "get_started": "Get Started",
+    "learn_more": "Learn More",
+    "our_features": "Our Features",
+    "ready_to_start": "Ready to Start?",
+    "disease_detection": "Disease Detection",
+    "disease_detection_desc": "Upload plant images for instant disease identification and treatment recommendations",
+    "expert_advice": "Expert Advice",
+    "expert_advice_desc": "Get personalized farming advice from agricultural experts",
+    "farmer_contribution": "Farmer Contribution",
+    "farmer_contribution_desc": "Share your knowledge and experiences with the farming community",
+    "buy_medicine": "Buy Medicine",
+    "buy_medicine_desc": "Purchase recommended medicines and treatments for plant diseases",
+    "multi_language": "Multi-Language Support",
+    "multi_language_desc": "Access the platform in multiple languages for better understanding"
+  },
+  "diseaseDetection": {
+    "title": "Plant Disease Detection",
+    "uploadImage": "Upload Plant Image",
+    "dragDrop": "Drag and drop an image here, or click to select",
+    "selectedImage": "Selected Image",
+    "analyze": "Analyze",
+    "analyzing": "Analyzing...",
+    "result": {
+      "title": "Analysis Result",
+      "disease": "Disease",
+      "confidence": "Confidence",
+      "description": "Description",
+      "treatment": "Treatment",
+      "retry": "Try Another Image"
+    },
+    "error": {
+      "noImage": "Please select an image first",
+      "uploadFailed": "Failed to upload image",
+      "analysisFailed": "Failed to analyze image",
+      "invalidResponse": "Received invalid response from AI API"
+    },
+    "ai_status_success": "AI API is working correctly",
+    "ai_status_failed": "Failed to connect to AI API",
+    "ai_status_generic_error": "An error occurred with the AI API",
+    "example_images": "Example Images",
+    "healthy_plant_example": "Healthy Plant Example",
+    "diseased_plant_example": "Diseased Plant Example",
+    "no_image_selected_or_ai_down": "Please select an image or check the AI API status.",
+    "back_to_upload": "Back to Upload",
+    "tips_title": "Tips for Best Results",
+    "tip_clear_photos": "Take clear, well-lit photos of the affected plant parts",
+    "tip_focus_diseased": "Focus on the diseased area while including some healthy tissue",
+    "tip_not_blurry": "Ensure the image is not blurry or too dark",
+    "tip_multiple_angles": "Include multiple angles if possible"
+  },
+  "expertAdvice": {
+    "title": "Expert Farming Advice",
+    "form": {
+      "cropType": "Crop Type",
+      "soilType": "Soil Type",
+      "location": "Location",
+      "language": "Language",
+      "submit": "Get Advice"
+    },
+    "result": {
+      "title": "Expert Advice",
+      "weather": "Weather Information",
+      "advice": "Farming Advice"
+    },
+    "error": {
+      "submitFailed": "Failed to get advice",
+      "invalidInput": "Please fill in all required fields"
+    },
+    "weather": {
+      "title": "Weather Information",
+      "temperature": "Temperature",
+      "humidity": "Humidity",
+      "windSpeed": "Wind Speed",
+      "description": "Weather Condition"
+    }
+  },
+  "farmerContribution": {
+    "title": "Farmer Contribution",
+    "description": "Share your knowledge and experiences with the farming community",
+    "search_placeholder": "Search contributions...",
+    "categories": {
+      "title": "Categories",
+      "all": "All",
+      "fungicide": "Fungicide",
+      "pesticide": "Pesticide",
+      "growth_enhancer": "Growth Enhancer",
+      "nutrient": "Nutrient",
+      "organic": "Organic",
+      "herbicide": "Herbicide",
+      "insecticide": "Insecticide",
+      "biological": "Biological Solution",
+      "soil_treatment": "Soil Treatment"
+    },
+    "add_to_cart": "Add to Cart",
+    "cart": {
+      "title": "Cart",
+      "empty": "Your cart is empty",
+      "total": "Total",
+      "checkout": "Checkout",
+      "remove": "Remove"
+    }
+  },
+  "about": {
+    "title": "About Farm Health",
+    "description": "Empowering farmers with AI-driven plant disease detection and expert agricultural guidance to ensure healthy crops and sustainable farming practices.",
+    "mission": "Our Mission",
+    "mission_text": "At Farm Health, we're dedicated to revolutionizing agricultural practices through cutting-edge technology. Our mission is to provide farmers with accurate, real-time plant disease detection and expert guidance to protect their crops and maximize yields.",
+    "mission_text_2": "We combine advanced machine learning algorithms with agricultural expertise to create a comprehensive solution that helps farmers identify plant diseases early, receive expert recommendations, and maintain healthy crops throughout the growing season.",
+    "team": "Our Team",
+    "team_lead": "Project Lead & Full Stack Developer",
+    "ml_expert": "Machine Learning Engineer",
+    "developer": "Frontend Developer",
+    "tech_title": "Technologies We Use",
+    "tensorflow_desc": "Advanced machine learning framework for accurate plant disease detection and classification",
+    "react_desc": "Modern frontend framework for building responsive and interactive user interfaces",
+    "flask_desc": "Lightweight and flexible backend framework for robust API development",
+    "pathology_desc": "Expert knowledge in plant diseases and agricultural best practices"
+  },
+  "buyMedicine": {
+    "title": "Farmacy: Your Crop Care Store",
+    "description": "Find and purchase effective solutions to protect your crops from diseases and pests.",
+    "search_placeholder": "Search medicines...",
+    "categories": {
+      "title": "Categories",
+      "all": "All",
+      "fungicide": "Fungicide",
+      "pesticide": "Pesticide",
+      "growth_enhancer": "Growth Enhancer",
+      "nutrient": "Nutrient",
+      "organic": "Organic",
+      "herbicide": "Herbicide",
+      "insecticide": "Insecticide",
+      "biological": "Biological Solution",
+      "soil_treatment": "Soil Treatment"
+    },
+    "add_to_cart": "Add to Cart",
+    "cart": {
+      "title": "Cart",
+      "empty": "Your cart is empty",
+      "total": "Total",
+      "checkout": "Checkout",
+      "remove": "Remove"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "success": "Success",
+    "cancel": "Cancel"
+  },
+  "footer": {
+    "app_name": "Farm Health",
+    "description": "Empowering farmers with AI-powered plant disease detection and expert agricultural advice",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "email": "addankiavinash1@gmail.com",
+    "rights": "All rights reserved.",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Subscribe to our newsletter for the latest updates and farming tips",
+    "subscribe": "Subscribe"
+  },
+  "title": "About Farm Health",
+  "description": "Empowering farmers with AI-driven plant disease detection and expert agricultural guidance to ensure healthy crops and sustainable farming practices.",
+  "mission": "Our Mission",
+  "mission_text": "At Farm Health, we're dedicated to revolutionizing agricultural practices through cutting-edge technology. Our mission is to provide farmers with accurate, real-time plant disease detection and expert guidance to protect their crops and maximize yields.",
+  "mission_text_2": "We combine advanced machine learning algorithms with agricultural expertise to create a comprehensive solution that helps farmers identify plant diseases early, receive expert recommendations, and maintain healthy crops throughout the growing season.",
+  "team": "Our Team",
+  "team_lead": "Project Lead & Full Stack Developer",
+  "ml_expert": "Machine Learning Engineer",
+  "developer": "Frontend Developer",
+  "tech_title": "Technologies We Use",
+  "tensorflow_desc": "Advanced machine learning framework for accurate plant disease detection and classification",
+  "react_desc": "Modern frontend framework for building responsive and interactive user interfaces",
+  "flask_desc": "Lightweight and flexible backend framework for robust API development",
+  "pathology_desc": "Expert knowledge in plant diseases and agricultural best practices"
+} 
